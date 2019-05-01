@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556603973530.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2AE15360",
+    "lastKnownWriteTime" : 1556671926,
+    "last_content_update" : 1556671926108,
+    "path" : "~/GitHub/stat133/workouts/Binomial/vignettes/Introduction.Rmd",
+    "project_path" : "vignettes/Introduction.Rmd",
+    "properties" : {
+        "cursorPosition" : "202,0",
+        "scrollLine" : "176",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
